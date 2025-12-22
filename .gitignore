@@ -1,0 +1,10 @@
+*.exe
+*.epub
+
+build
+.vs
+.idea
+.vscode
+.zed
+
+node_modules

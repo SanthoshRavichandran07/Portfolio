@@ -1,34 +1,34 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript** to showcase my profile, skills, and projects.  
 Designed with **mobile-first responsiveness**, smooth animations, and a clean UI.
 
 ---
 
-## 👤 About Me
+## About Me
 
 **Santhosh Ravichandran**  
-🎓 B.Tech in Information Technology  
-💻 Java Enthusiast | Full Stack Developer (Fresher)
+B.Tech in Information Technology  
+Java Enthusiast | Full Stack Developer (Fresher)
 
 I am a motivated software developer with strong fundamentals in **Core Java, Web Development, and Databases**, actively seeking opportunities as a **Java Developer / Full Stack Developer**.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📱 **Fully Responsive Design** (Mobile, Tablet, Desktop)
-- 🍔 **Animated Hamburger Menu**
-- 🖱️ **Smooth Scroll Navigation**
-- 🎯 **Typing Text Animation** (Roles changing dynamically)
-- 🎬 **Scroll Reveal Animations**
-- 🧩 **Interactive Skill Tags**
-- 📇 **Contact Cards with Icons**
-- ⚡ **Optimized for Performance & Mobile UX**
+- **Fully Responsive Design** (Mobile, Tablet, Desktop)
+- **Animated Hamburger Menu**
+- **Smooth Scroll Navigation**
+- **Typing Text Animation** (Roles changing dynamically)
+- **Scroll Reveal Animations**
+- **Interactive Skill Tags**
+- **Contact Cards with Icons**
+- **Optimized for Performance & Mobile UX**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |---------|------|
@@ -39,39 +39,38 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 | **Google Fonts** | Typography |
 
 ---
-
-## 📁 Project Structure
-# 🌐 Personal Portfolio Website
+##Site Structure
+# Personal Portfolio Website
 
 A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript** to showcase my profile, skills, and projects.  
 Designed with **mobile-first responsiveness**, smooth animations, and a clean UI.
 
 ---
 
-## 👤 About Me
+## About Me
 
 **Santhosh Ravichandran**  
-🎓 B.Tech in Information Technology  
-💻 Java Enthusiast | Full Stack Developer (Fresher)
+B.Tech in Information Technology  
+Java Enthusiast | Full Stack Developer (Fresher)
 
 I am a motivated software developer with strong fundamentals in **Core Java, Web Development, and Databases**, actively seeking opportunities as a **Java Developer / Full Stack Developer**.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📱 **Fully Responsive Design** (Mobile, Tablet, Desktop)
-- 🍔 **Animated Hamburger Menu**
-- 🖱️ **Smooth Scroll Navigation**
-- 🎯 **Typing Text Animation** (Roles changing dynamically)
-- 🎬 **Scroll Reveal Animations**
-- 🧩 **Interactive Skill Tags**
-- 📇 **Contact Cards with Icons**
-- ⚡ **Optimized for Performance & Mobile UX**
+- **Fully Responsive Design** (Mobile, Tablet, Desktop)
+- **Animated Hamburger Menu**
+- **Smooth Scroll Navigation**
+- **Typing Text Animation** (Roles changing dynamically)
+- **Scroll Reveal Animations**
+- **Interactive Skill Tags**
+- **Contact Cards with Icons**
+- **Optimized for Performance & Mobile UX**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |---------|------|
@@ -85,33 +84,33 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 
 ## Project Structure
 Portfolio
-┣ image
-┃ ┣ Santhosh_Photo.jpg
-┃ ┗ SR_Logo.png
-┣ index.html
-┣ index.css
-┣ script.js
-┗ README.md
+|- image
+|  |- Santhosh_Photo.jpg
+|  |- SR_Logo.png
+|- index.html
+|- index.css
+|- script.js
+|- README.md
 
 ---
 
-## 🎬 Animations & Effects
+## Animations & Effects
 
-- 🔤 Typing Effect (Backend → Full Stack → Java Developer → Software Engineer)
-- ⬆️ Fade-up reveal on scroll
-- 🍔 Hamburger ☰ → ❌ animation
-- 📱 Mobile-friendly animations
-- 🖱️ Tap feedback on buttons
+- Typing Effect (Backend → Full Stack → Java Developer → Software Engineer)
+- Fade-up reveal on scroll
+- Hamburger animation
+- Mobile-friendly animations
+- Tap feedback on buttons
 
 ---
 
 Contact
 
-📧 Email: santhoshravi7503@gmail.com
+Email: santhoshravi7503@gmail.com
 
-🔗 LinkedIn: [Santhosh Ravichandran](https://www.linkedin.com/in/santhosravichandran/)
+LinkedIn: [Santhosh Ravichandran](https://www.linkedin.com/in/santhosravichandran/)
 
-📍 Location: Tamil Nadu, India
+Location: Tamil Nadu, India
 
 
 

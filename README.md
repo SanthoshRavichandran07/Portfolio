@@ -39,7 +39,7 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 | **Google Fonts** | Typography |
 
 ---
-##Site Structure
+## Site Structure
 # Personal Portfolio Website
 
 A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript** to showcase my profile, skills, and projects.  
@@ -90,7 +90,6 @@ Portfolio
 |- index.html
 |- index.css
 |- script.js
-|- README.md
 
 ---
 
